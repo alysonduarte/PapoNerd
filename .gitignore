@@ -1,0 +1,10 @@
+quality/settings.py 
+.settings 
+.project 
+.pydevproject 
+Django* 
+django* 
+*.pyc 
+*.pyo 
+*.*~
+.idea
